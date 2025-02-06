@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm plol</h1>
+<h1 align="center">Hi 👋, I'm Pieter Van Vlierberghe</h1>
 <h3 align="center">A student from Belgium</h3>
 
 - 🔭 I’m currently working on **a chess bot**
