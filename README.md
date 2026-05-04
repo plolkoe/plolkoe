@@ -1,13 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pieter Van Vlierberghe</h1>
-<h3 align="center">A student from Belgium</h3>
-
-- 🔭 I’m currently working on **not failing my exams**
-
-- 🌱 I’m currently learning **java, javascript, python**
-
-- 💬 Ask me about **lua**
-
-- 📫 How to reach me **vanvlierberghepieter@gmail.com**
+<h1 align="center">Hi 👋, I'm plolkoe</h1>
 
 - ⚡ Fun fact **deadlines**
 
