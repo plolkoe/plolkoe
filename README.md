@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm plolkoe</h1>
 
-- ⚡ Fun fact **deadlines**
+- ⚡ Fun fact: **deadlines**
 
 
 <p align="left">
